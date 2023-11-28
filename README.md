@@ -1,14 +1,22 @@
-# SFML-Project-Setup
+# Graphing Perlin Noise 1D
 
-Hello dear friend, welcome! I made this setup for you. There is no need to deal with project properties anymore. Just download this project and open the solution file. Then start making games with SFML. Don't forget this setup is for Visual Studio 2022. Enjoy!
+I learned perlin noise. I created waves with perlin noise.
 
-I also write a simple code for you, after download the setup you can try to run it.
+![Graphing Perlin Noise 28 11 2023 20_19_41](https://github.com/tuananohut/Graphing-Perlin-Noise-1D/assets/57767763/b8f088c1-309b-4b63-9cbd-39606d25ecbb)
 
-## What is SFML?
-[Simple and Fast Multimedia Library](https://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library)https://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
+## How it looks like?
 
-## Download SFML
-https://www.sfml-dev.org/download/sfml/2.6.1/
+https://youtu.be/xSdBC9wOSz0
 
-## Learn SFML
-https://www.sfml-dev.org/tutorials/2.6/
+### References
+
+#### Write perlin noise function in C++
+
+https://www.youtube.com/watch?v=kCIaHqb60Cw
+
+#### What is perlin noise? 
+https://natureofcode.com/book/introduction/
+
+https://youtube.com/playlist?list=PLRqwX-V7Uu6bgPNQAdxQZpJuJCjeOr7VD&si=--3IGQDBhsw8xBaw
+
+If you search the internet, you can find a lot of resources about perlin noise. I used these resources.
