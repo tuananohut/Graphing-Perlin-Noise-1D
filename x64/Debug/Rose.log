@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\tuana\Downloads\Graphing-Perlin-Noise-1D-master\Graphing-Perlin-Noise-1D-master\src\main.cpp(24,26): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\tuana\Downloads\Graphing-Perlin-Noise-1D-master\Graphing-Perlin-Noise-1D-master\src\main.cpp(27,26): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\tuana\Downloads\Graphing-Perlin-Noise-1D-master\Graphing-Perlin-Noise-1D-master\src\main.cpp(29,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tuana\Downloads\Graphing-Perlin-Noise-1D-master\Graphing-Perlin-Noise-1D-master\src\main.cpp(51,45): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\tuana\Downloads\Graphing-Perlin-Noise-1D-master\Graphing-Perlin-Noise-1D-master\src\main.cpp(117,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\tuana\Downloads\Graphing-Perlin-Noise-1D-master\Graphing-Perlin-Noise-1D-master\src\main.cpp(117,37): warning C4244:         with
+C:\Users\tuana\Downloads\Graphing-Perlin-Noise-1D-master\Graphing-Perlin-Noise-1D-master\src\main.cpp(117,37): warning C4244:         [
+C:\Users\tuana\Downloads\Graphing-Perlin-Noise-1D-master\Graphing-Perlin-Noise-1D-master\src\main.cpp(117,37): warning C4244:             T=float
+C:\Users\tuana\Downloads\Graphing-Perlin-Noise-1D-master\Graphing-Perlin-Noise-1D-master\src\main.cpp(117,37): warning C4244:         ]
+  Shape.cpp
+C:\Users\tuana\Downloads\Graphing-Perlin-Noise-1D-master\Graphing-Perlin-Noise-1D-master\src\Shape.cpp(7,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tuana\Downloads\Graphing-Perlin-Noise-1D-master\Graphing-Perlin-Noise-1D-master\src\Shape.cpp(7,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Rose.vcxproj -> C:\Users\tuana\Downloads\Graphing-Perlin-Noise-1D-master\Graphing-Perlin-Noise-1D-master\x64\Debug\Perlin Noise.exe
